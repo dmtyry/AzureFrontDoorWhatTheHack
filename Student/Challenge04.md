@@ -28,7 +28,7 @@ For this challenge we are going to:
 
 ## Learning Resources
 
-- [TBD](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)
-- [TBD](https://azure.microsoft.com/en-us/features/storage-explorer/)
+- [What is Caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
+- [How does CDN work?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
 
